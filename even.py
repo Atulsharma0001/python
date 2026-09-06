@@ -1,12 +1,9 @@
-number=int(input("enter the numebr"))
 
-i=2
-while i<10:
 
+for i in  range(1,11):
     if(i%2==0):
-        print("even",i)
+     print(i)
 
-        i=i+2
     
 
     
