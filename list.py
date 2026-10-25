@@ -1,4 +1,4 @@
-fruit=[1,'apple', 'banana', 'orange']  # this is list so it is mutabe means change
+fruit=[1,'apple', 'banana', 'orange','guava']  # this is list so it is mutabe means change
 print(fruit)
 
 fruit[1]='mango'                   #  here it is change but string not change

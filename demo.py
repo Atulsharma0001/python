@@ -4,7 +4,7 @@ print(st)
 
 # output is start from 0 to 2 excluding 3     atu
 
-print(s[1:3])
+print(s[1:4])
 print(s[:3])        
 print(s[0:])   
 
