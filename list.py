@@ -10,3 +10,5 @@ print(fruit)
 fruit.remove('mango')                 # in list we use []  in first line
 print(fruit)                          # in tuple   ()     differ both       
 
+fruit.append('dog')
+print(fruit)
